@@ -1,1 +1,1 @@
-0x03. C - Debugging task
+0x03-Debugging task
