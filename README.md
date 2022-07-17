@@ -1,1 +1,1 @@
-0x0C. C - More malloc, free
+0x0E. C - Structures, typedef tasks
