@@ -1,7 +1,7 @@
-Hash Tables
-Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn how to implement Hash Tables with C language.
-
-Technologies
-Scripts written in Bash 4.3.11(1)
-C files are compiled using gcc 4.8.4
-Tested on Ubuntu 14.04 LTS
+# Low-Level Programming 
+- Data Structures, Algorithms
+- Linux/Unix System Programming
+### This repository contains programs written for the low-level programming and algorithm track at ALX-Africa SE. 
+- In these projects, which occurred throughout the duration of the Year 1 curriculum
+- I learned about data structures
+- Algorithms, and other low-level programming concepts while working in the C language.
